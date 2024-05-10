@@ -81,7 +81,7 @@
     }
 
     .menu-item .bor {
-        color: #D2042D;
+        color: #ce64ae;
     }
 
     .bor::after {
@@ -412,7 +412,7 @@
     }
 
     .team-item img {
-        border: 4px solid #D2042D;
+        border: 4px solid #ce64ae;
     }
 
     .price-pa {
